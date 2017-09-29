@@ -2,11 +2,11 @@
   "basics": {
     "name": "Jacob Swartz",
     "label": "Software Developer",
-    "picture": "",
+    "picture": "image/profile.png",
     "email": "jacob.sf.us@gmail.com",
     "phone": "(415) 766-1867",
-    "website": "http://jjaaccoobb.github.io",
-    "summary": "In-depth understanding of the core fundamentals of software development: concept and design, programming, debugging, implementation, and management. Extensive experience deploying and managing Linux server environments. Easily self-motivated – capable of working independently as well as being a strong team player. Highly proficient using the LAMP stack with a passion to improve and expand skillsets.",
+    "website": "",
+    "summary": "In-depth understanding of software development fundamentals: concept and design, programming, testing & debugging, implementation, and management. Specialized experience in eCommerce and search engine optimization & marketing. Extensive experience deploying and managing Linux server environments. Highly self-motivated – capable of working independently as well as being a key asset to any team, with a passion to share knowledge and improve & expand skillsets.",
     "location": {
       "address": "136 Belvedere St",
       "postalCode": "CA 94117",
