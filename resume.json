@@ -1,0 +1,175 @@
+{
+  "basics": {
+    "name": "Jacob Swartz",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "jacob.sf.us@gmail.com",
+    "phone": "(415) 766-1867",
+    "website": "http://jjaaccoobb.github.io",
+    "summary": "In-depth understanding of the core fundamentals of software development: concept and design, programming, debugging, implementation, and management. Extensive experience deploying and managing Linux server environments. Easily self-motivated – capable of working independently as well as being a strong team player. Highly proficient using the LAMP stack with a passion to improve and expand skillsets.",
+    "location": {
+      "address": "136 Belvedere St",
+      "postalCode": "CA 94117",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jacobswartz",
+        "url": "http://linkedin.com/in/jacobswartz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance Consultant",
+      "position": "Software Developer",
+      "website": "http://jjaaccoobb.github.io",
+      "startDate": "2015-01-01",
+      "highlights": [
+        "Develop, maintain, and manage sites and custom features for clients",
+        "Install and configure versioning, web, and mailservers",
+        "Utilize APIs to quickly import product metadata, saving time for new additions",
+        "Generate tailored reports from cart platforms for e-commerce clients"
+      ]
+    },
+    {
+      "company": "Bluestone Creative",
+      "position": "Lead Creative Consultant",
+      "website": "https://bluestonecreative.com",
+      "startDate": "2014-03-01",
+      "endDate": "2014-09-01",
+      "summary": "Innovative design solutions for print, web, multimedia, apparel & promotional products.",
+      "highlights": [
+        "Implemented and configured hardware for in-house web, storage, and FTP servers",
+        "Set up tools for project tracking, task management, and time logging",
+        "Created website boilerplates for various categories of clients"
+      ]
+    },
+    {
+      "company": "Ask.com",
+      "position": "Software Engineer",
+      "website": "http://www.ask.com",
+      "startDate": "2012-10-01",
+      "endDate": "2013-07-01",
+      "summary": "Ask.com (originally known as Ask Jeeves) is a question answering-focused e-business and web search engine founded in 1996 by Garrett Gruener and David Warthen in Berkeley, California.",
+      "highlights": [
+        "Worked on an agile development team responsible for 3+ million unique articles and Q&A pairs",
+        "Repaired sites affected by Google’s search algorithm “Panda”, resuming AdSense revenue",
+        "Led team to use more efficient processes in order to more rapidly create, edit, and share mockups and one-offs",
+        "Migrated top revenue earning sites to dotCMS under strict deadlines"
+      ]
+    },
+    {
+      "company": "FontShop International, Inc",
+      "position": "Web Developer",
+      "website": "http://www.fontshop.com",
+      "startDate": "2008-10-01",
+      "endDate": "2012-07-01",
+      "summary": "FontShop International is an international manufacturer of digital typefaces, based in Berlin. It is one of the largest digital type foundries.",
+      "highlights": [
+        "Created a dynamic, responsive eCommerce experience using HTML5, CSS3 + Sass, and JavaScript",
+        "Optimized pages to decrease load time and increase SEO ranking",
+        "Developed font rendering tool for sampling over 100,000 typefaces ",
+        "Implemented sitewide templating and internationalization supporting 4 languages",
+        "Migrated from cumbersome images and Flash hacks to webfonts with TypeKit",
+        "Worked with payment processing systems: CyberSource, Ogone",
+        "Maintained WordPress blog extended with custom features",
+        "Helped organize and run TYPO – one of Europe’s most successful design conferences – for its U.S. premiere at Yerba Buena Center for the Art"
+      ]
+    },
+    {
+      "company": "Fish Flirt Marketing",
+      "position": "Web Developer",
+      "website": "http://google.com",
+      "startDate": "2007-05-01",
+      "endDate": "2008-10-01",
+      "summary": "Fish Flirt marketing was a web design and development shop, building websites and services for in-house and contract clients.",
+      "highlights": [
+        "Developed and maintained websites for clients using the LAMP stack. W3C compliant HTML4, CSS2, and JavaScript",
+        "Installed, configured, and managed SVN, web, and mail servers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sinclair Community College",
+      "area": "Computer Information Systems",
+      "studyType": "Associate",
+      "startDate": "2007-04-01",
+      "endDate": "2008-08-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "OOP PHP",
+        "Node/Vue.js/Webpack",
+        "HTML5/CSS3",
+        "Apache",
+        "Caching",
+        "SEO/SEM",
+        "Load time optimization"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "Master",
+      "keywords": [
+        "Debian Linux",
+        "Mac OS X",
+        "Windows 7, 10"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Master",
+      "keywords": [
+        "PHPUnit/xdebug",
+        "JMeter/Apache Bench",
+        "KCachegrind",
+        "New Relic/YSlow/PageSpeed"
+      ]
+    },
+    {
+      "name": "Virtualization",
+      "level": "Master",
+      "keywords": [
+        "VirtualBox/VMWare",
+        "Vagrant/PuPHPet",
+        "Amazon Web Services",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Collaboration",
+      "level": "Master",
+      "keywords": [
+        "IRC",
+        "Basecamp",
+        "Trac",
+        "JIRA"
+      ]
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Chris Hamamoto",
+      "reference": "Jacob was a pleasure to work with, very talented, prompt, and personable. I feel the projects we worked on together were truly collaborative, resulting in outcomes that took advantage of both our expertise."
+    },
+    {
+      "name": "Stephen Coles",
+      "reference": "Smart guy. Learns and works fast. We got a lot of FontShop.com stuff done together."
+    },
+    {
+      "name": "Luke Sedmak",
+      "reference": "Jacob is a quick learner with unlimited potential. His ambition allows him to gain a deep understanding of new concepts and execute them in a real-world environment."
+    }
+  ]
+}
