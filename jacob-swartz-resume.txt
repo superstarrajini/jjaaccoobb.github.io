@@ -1,5 +1,16 @@
 --------------------------------------------------------------------------------
 
+CONTACT
+
+Jacob Swartz
+
+Software Developer
+136 Belvedere Street, San Francisco, California, US, 94117
+(415) 766-1867
+jacob.sf.us@gmail.com
+
+--------------------------------------------------------------------------------
+
 ABOUT
 
 In-depth understanding of software development fundamentals: concept and design,
