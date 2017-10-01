@@ -16,7 +16,7 @@ ABOUT
 In-depth understanding of software development fundamentals: concept and design,
 programming, testing & debugging, implementation, and management. Specialized
 experience in eCommerce and search engine optimization & marketing. Intuition
-for detail and visual aesthetics. Highly self-motivated – capable of working
+for detail and visual aesthetics. Highly self-motivated ï¿½ capable of working
 independently as well as being a key asset to any team, with a passion to share
 knowledge and improve & expand skillsets.
 
@@ -25,7 +25,8 @@ knowledge and improve & expand skillsets.
 WORK EXPERIENCE
 
 FREELANCE CONSULTANT
-Software Developer2015 - Present
+Software Developer
+2015 - Present
 
  * Develop, maintain, and manage sites and custom features for clients
  * Install and configure versioning, web, and mailservers
@@ -36,7 +37,8 @@ Software Developer2015 - Present
 --------------------------------------------------------------------------------
 
 BLUESTONE CREATIVE
-Lead Creative Consultant2014 - 2014
+Lead Creative Consultant
+2014 - 2014
 
 Innovative design solutions for print, web, multimedia, apparel & promotional
 products.
@@ -49,7 +51,8 @@ products.
 --------------------------------------------------------------------------------
 
 ASK.COM
-Software Engineer2012 - 2013
+Software Engineer
+2012 - 2013
 
 Ask.com (originally known as Ask Jeeves) is a question answering-focused
 e-business and web search engine founded in 1996 by Garrett Gruener and David
@@ -57,7 +60,7 @@ Warthen in Berkeley, California.
 
  * Worked on an agile development team responsible for 3+ million unique
    articles and Q&A pairs
- * Repaired sites affected by Google’s search algorithm “Panda”, resuming
+ * Repaired sites affected by Googleï¿½s search algorithm ï¿½Pandaï¿½, resuming
    AdSense revenue
  * Led team to use more efficient processes in order to more rapidly create,
    edit, and share mockups and one-offs
@@ -66,7 +69,8 @@ Warthen in Berkeley, California.
 --------------------------------------------------------------------------------
 
 FONTSHOP INTERNATIONAL, INC
-Web Developer2008 - 2012
+Web Developer
+2008 - 2012
 
 FontShop International is an international manufacturer of digital typefaces,
 based in Berlin. It is one of the largest digital type foundries.
@@ -80,13 +84,14 @@ based in Berlin. It is one of the largest digital type foundries.
  * Migrated from cumbersome images and Flash hacks to webfonts with TypeKit
  * Worked with payment processing systems: CyberSource, Ogone
  * Maintained WordPress blog extended with custom features
- * Helped organize and run TYPO – one of Europe’s most successful design
-   conferences – for its U.S. premiere at Yerba Buena Center for the Art
+ * Helped organize and run TYPO - one of Europe's most successful design
+   conferences - for its U.S. premiere at Yerba Buena Center for the Arts
 
 --------------------------------------------------------------------------------
 
 FISH FLIRT MARKETING
-Web Developer2007 - 2008
+Web Developer
+2007 - 2008
 
 Fish Flirt marketing was a web design and development shop, building websites
 and services for in-house and contract clients.
@@ -119,31 +124,23 @@ SKILLS
     * xcache/memcache
     * SEO/SEM
     * Page load tuning
-   
-   
 
  * TESTING
     * PHPUnit/xdebug
     * JMeter/Apache Bench
     * KCachegrind
     * New Relic/YSlow/PageSpeed
-   
-   
 
  * VIRTUALIZATION
     * VirtualBox/VMWare
     * Vagrant/PuPHPet
     * Amazon Web Services
     * Docker
-   
-   
 
  * OS
     * Debian Linux
     * MacOS
     * Windows 7, 10
-   
-   
 
  * COLLABORATION
     * IRC
