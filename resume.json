@@ -6,13 +6,12 @@
     "email": "jacob.sf.us@gmail.com",
     "phone": "(415) 766-1867",
     "website": "",
-    "summary": "In-depth understanding of software development fundamentals: concept and design, programming, testing & debugging, implementation, and management. Specialized experience in eCommerce and search engine optimization & marketing. Intuition for detail and visual aesthetics. Highly self-motivated – capable of working independently as well as being a key asset to any team, with a passion to share knowledge and improve & expand skillsets.",
+    "summary": "Eager and experienced full stack developer with a frontend focus. Specialized experience with ecommerce solutions and SEO & SEM. Intuition for detail and visual aesthetics. Highly self-motivated—capable of working independently as well as being a key asset to any team, with a passion to share knowledge and improve & expand skill sets.",
     "location": {
-      "address": "136 Belvedere Street",
-      "postalCode": "94117",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "515 Central Ave",
+      "postalCode": "94043",
+      "city": "Mountain View",
+      "region": "CA"
     },
     "profiles": [
       {
@@ -29,11 +28,11 @@
       "website": "https://jjaaccoobb.github.io",
       "startDate": "2015-01-01",
       "highlights": [
-        "Develop, maintain, and manage sites and custom features for clients",
-        "Install and configure versioning, web, and mailservers",
-        "Utilize APIs to quickly import product metadata, reducing ingestion time",
-        "Generate tailored reports from cart platforms for e-commerce clients",
-        "Create email campaigns using MailChimp and Campaign Monitor"
+        "Develop and maintain websites and custom features for clients",
+        "Utilize APIs to import product data from multiple vendors",
+        "Generate tailored reports from cart platforms for ecommerce clients",
+        "Create email campaigns using MailChimp and Campaign Monitor",
+        "Install and maintain FTP, mail, and web servers"
       ]
     },
     {
@@ -44,9 +43,9 @@
       "endDate": "2014-09-01",
       "summary": "Innovative design solutions for print, web, multimedia, apparel & promotional products.",
       "highlights": [
-        "Implemented and configured hardware for in-house web, storage, and FTP servers",
-        "Set up tools for project tracking, task management, and time logging",
-        "Created website boilerplates for various categories of clients"
+        "Created websites using HTML5, PHP, JavaScript, Sass, and Foundation",
+        "Managed hardware and software for in-house web, storage, and FTP servers",
+        "Set up tools for project tracking, task management, and time logging"
       ]
     },
     {
@@ -57,10 +56,10 @@
       "endDate": "2013-07-01",
       "summary": "Ask.com (originally known as Ask Jeeves) is a question answering-focused e-business and web search engine founded in 1996 by Garrett Gruener and David Warthen in Berkeley, California.",
       "highlights": [
-        "Worked on an agile development team responsible for 3+ million unique articles and Q&A pairs",
-        "Repaired sites affected by Google’s search algorithm “Panda”, resuming AdSense revenue",
-        "Led team to use more efficient processes in order to more rapidly create, edit, and share mockups and one-offs",
-        "Migrated top revenue earning sites to dotCMS under strict deadlines"
+        "Front and backend development on an agile development team responsible for over 20 domain-specific search engine results pages",
+        "Repaired revenue-generating sites penalized by Google’s search algorithm “Panda”",
+        "Made Questions & Answers site mobile-friendly by implementing a responsive grid",
+        "Assisted designers and creative directors in authoring a unified website style guide"
       ]
     },
     {
@@ -71,14 +70,14 @@
       "endDate": "2012-07-01",
       "summary": "FontShop International is an international manufacturer of digital typefaces, based in Berlin. It is one of the largest digital type foundries.",
       "highlights": [
-        "Created a dynamic, responsive eCommerce experience using HTML5, CSS3 + Sass, and JavaScript",
-        "Optimized pages to decrease load time and increase SEO ranking",
-        "Developed font rendering tool for sampling over 100,000 typefaces ",
+        "Created a responsive ecommerce experience using HTML5, CSS3 + Sass, and JavaScript",
+        "Developed font rendering tool for sampling over 100,000 typefaces using php-gd",
         "Implemented sitewide templating and internationalization supporting 4 languages",
-        "Migrated from cumbersome images and Flash hacks to webfonts with TypeKit",
-        "Worked with payment processing systems: CyberSource, Ogone",
-        "Maintained WordPress blog extended with custom features",
-        "Helped organize and run TYPO – one of Europe’s most successful design conferences – for its U.S. premiere at Yerba Buena Center for the Arts"
+        "Created a shopping cart checkout system using CyberSource, Ogone, and PayPal",
+        "Optimized pages resulting in decreased load time and increased SEO ranking",
+        "Replaced image and Flash hack typography solutions with web fonts using Typekit",
+        "Maintained self-hosted WordPress blog extended with custom features",
+        "Helped organize and run TYPO San Francisco–one of Europe’s most successful design conferences–for its U.S. premiere at Yerba Buena Center for the Arts"
       ]
     },
     {
@@ -87,9 +86,9 @@
       "website": "https://www.google.com",
       "startDate": "2007-05-01",
       "endDate": "2008-10-01",
-      "summary": "Fish Flirt marketing was a web design and development shop, building websites and services for in-house and contract clients.",
+      "summary": "Fish Flirt marketing was a web design and development shop, designing and publishing websites and services for in-house and contract clients.",
       "highlights": [
-        "Developed and maintained websites for clients using the LAMP stack. W3C compliant HTML4, CSS2, and JavaScript",
+        "Developed ecommerce sites with the LAMP stack, W3C-compliant HTML, CSS, and JS",
         "Installed, configured, and managed SVN, web, and mail servers"
       ]
     }
