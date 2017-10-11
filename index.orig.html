@@ -1378,15 +1378,11 @@
           $( '.js-floating-nav a' ).on( 'click', toggleFloatingMenu );
           
           $("#remaining-profiles").on('show.bs.collapse', function() {
-            $( '.js-profiles-collapse > i' )
-              .removeClass( 'icon-chevron-down' )
-              .addClass( 'icon-chevron-up' );
+            $( '.js-profiles-collapse > i' ).removeClass( 'icon-chevron-down' ).addClass( 'icon-chevron-up' );
           });
           
           $("#remaining-profiles").on('hidden.bs.collapse', function() {
-            $( '.js-profiles-collapse > i' )
-              .removeClass( 'icon-chevron-up' )
-              .addClass( 'icon-chevron-down' );
+            $( '.js-profiles-collapse > i' ).removeClass( 'icon-chevron-up' ).addClass( 'icon-chevron-down' );
           });
           });
       </script>
