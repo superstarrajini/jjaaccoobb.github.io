@@ -8,7 +8,7 @@
     "website": "",
     "summary": "Eager and experienced full stack developer with a frontend focus. Specialized experience with ecommerce solutions and SEO & SEM. Intuition for detail and visual aesthetics. Highly self-motivated—capable of working independently as well as being a key asset to any team, with a passion to share knowledge and improve & expand skill sets.",
     "location": {
-      "address": "515 Central Ave",
+      "address": "515 Central Ave, Unit T",
       "postalCode": "94043",
       "city": "Mountain View",
       "region": "CA"
@@ -107,17 +107,15 @@
       "name": "Development",
       "level": "Master",
       "keywords": [
+        "ES6 JavaScript/TypeScript",
         "Object-oriented PHP",
-        "JavaScript",
-        "bash",
-        "Node.js/Vue.js/Webpack",
+        "Node.js/ Webpack",
+        "Vue.js/Angular",
         "HTML5/CSS3/Sass",
-        "SVN/git",
         "MySQL",
-        "Apache",
-        "xcache/memcache",
-        "SEO/SEM",
-        "Page load tuning"
+        "Bash",
+        "SVN/git",
+        "SEO/SEM"
       ]
     },
     {
@@ -125,9 +123,10 @@
       "level": "Master",
       "keywords": [
         "PHPUnit/xdebug",
+        "Jasmine/Karma",
         "JMeter/Apache Bench",
         "KCachegrind",
-        "New Relic/YSlow/PageSpeed"
+        "New Relic/PageSpeed/Blackfire"
       ]
     },
     {
@@ -155,8 +154,9 @@
       "keywords": [
         "IRC",
         "Basecamp",
-        "Trac",
-        "JIRA"
+        "JIRA/Trac",
+        "Slack",
+        "Yammer"
       ]
     }
   ],
