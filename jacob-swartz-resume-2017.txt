@@ -107,7 +107,7 @@ SKILLS
  * DEVELOPMENT
     * ES6 JavaScript/TypeScript
     * Object-oriented PHP
-    * Node.js/ Webpack
+    * Node.js/Webpack
     * Vue.js/Angular
     * HTML5/CSS3/Sass
     * MySQL
