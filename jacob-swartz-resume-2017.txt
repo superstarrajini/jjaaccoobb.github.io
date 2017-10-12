@@ -67,8 +67,8 @@ FONTSHOP INTERNATIONAL, INC
 Web Developer
 2008 - 2012
 
-FontShop International is an international manufacturer of digital typefaces,
-based in Berlin. It is one of the largest digital type foundries.
+FontShop International is a manufacturer of digital typefaces, based in Berlin.It
+is one of the largest digital type foundries.
 
  * Created a responsive ecommerce experience using HTML5, CSS3 + Sass, and JavaScript
  * Developed font rendering tool for sampling over 100,000 typefaces using php-gd
